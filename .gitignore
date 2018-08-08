@@ -1,0 +1,7 @@
+.DS_Store
+*DS_Store*
+/tf_files/bottlenecks
+/tf_files/genie
+/tf_files/meg
+/tf_files/aries
+/tf_files/jasmine
